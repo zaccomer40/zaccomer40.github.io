@@ -53,39 +53,39 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Canvas',
-			icon: 'graduation-cap',
-			link: 'http://canvas.vt.edu/',
-		},
-		{
-			id: '2',
 			name: 'gmail',
 			icon: 'mail',
 			link: 'https://mail.google.com/mail/u/0/#inbox',
 		},
 		{
-			id: '3',
-			name: 'VT gmail',
-			icon: 'mails',
-			link: 'https://mail.google.com/mail/u/1/#inbox',
+			id: '2',
+			name: 'youtube',
+			icon: 'youtube',
+			link: 'http://youtube.com/',
 		},
 		{
-			id: '4',
+			id: '3',
 			name: 'Google Drive',
 			icon: 'hard-drive',
 			link: 'https://drive.google.com/drive/u/0/my-drive',
 		},
 		{
-			id: '5',
+			id: '4',
 			name: 'Reddit',
-			icon: 'glasses',
+			icon: 'newspaper',
 			link: 'https://reddit.com',
 		},
 		{
+			id: '5',
+			name: 'Amazon',
+			icon: 'shopping-cart',
+			link: 'https://www.amazon.com/',
+		},
+		{
 			id: '6',
-			name: 'youtube',
-			icon: 'youtube',
-			link: 'http://youtube.com/',
+			name: 'goodreads',
+			icon: 'library',
+			link: 'https://www.goodreads.com/',
 		},
 	],
 
@@ -135,7 +135,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'school',
+			icon: 'graduation-cap',
 			id: '1',
 			links: [
 				{
@@ -157,7 +157,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'playlists',
+			icon: 'layout-list',
 			id: '2',
 			links: [
 				{
