@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Canvas',
-					link: 'http://canvas.vt.edu/',
+					name: 'Okta',
+					link: 'https://portal.bana.cloud/app/UserHome',
 				},
 				{
-					name: 'Mail',
-					link: 'https://mail.google.com/mail/u/1/#inbox',
+					name: 'Outlook',
+					link: 'https://portal.bana.cloud/home/office365/0oa17i9ta2y9OkVAW1d8/30781',
 				},
 				{
-					name: 'HokieSpa',
-					link: 'https://banweb.banner.vt.edu/ssb/prod/twbkwbis.P_GenMenu?name=bmenu.P_MainMnu',
+					name: 'Jira',
+					link: 'https://banasolutions.atlassian.net/jira/software/projects/B2I/boards/3',
 				},
 				{
-					name: 'Drive',
-					link: 'https://drive.google.com/drive/u/1/my-drive',
+					name: 'Confluence',
+					link: 'https://banasolutions.atlassian.net/wiki/home',
 				},
 			],
 		},
