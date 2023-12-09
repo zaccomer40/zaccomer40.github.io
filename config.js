@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'youtube',
 			icon: 'youtube',
-			link: 'http://youtube.com/',
+			link: 'https://www.youtube.com/playlist?list=WL',
 		},
 		{
 			id: '3',
